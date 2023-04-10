@@ -3,7 +3,7 @@ import {onMounted} from "vue";
 
 onMounted(() => {
   setTimeout(() => {
-    // window.location.href = 'https://cas.x-go-leads.com/click?pid=10393&offer_id=1171'
+    window.location.href = 'https://cas.x-go-leads.com/click?pid=10393&offer_id=1171'
   }, 3000)
 
 })
