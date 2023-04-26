@@ -3,7 +3,8 @@ import {onMounted} from "vue";
 
 onMounted(() => {
   setTimeout(() => {
-    window.location.href = 'https://cas.x-go-leads.com/click?pid=10393&offer_id=1171'
+    window.location.href = 'https://click.trafilink.site/SuhI08NC'
+    // leadshub window.location.href = 'https://cas.x-go-leads.com/click?pid=10393&offer_id=1171'
   }, 3000)
 
 })
@@ -12,7 +13,7 @@ onMounted(() => {
 
 <template>
   <main>
-    <p>Espere 3-10 segundos...</p>
+    <p>Please, wait 3-10 seconds...</p>
     <div class="loader"></div>
   </main>
 </template>
