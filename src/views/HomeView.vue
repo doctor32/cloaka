@@ -1,15 +1,15 @@
 <script setup>
-import {onMounted} from "vue";
-
-onMounted(() => {
-  setTimeout(() => {
-    // kaizer cpa
-    // window.location.href = 'https://click.trafilink.site/SuhI08NC'
-    // leadshub
-    window.location.href = 'https://cas.x-go-leads.com/click?pid=10393&offer_id=1171'
-  }, 3000)
-
-})
+// import {onMounted} from "vue";
+//
+// onMounted(() => {
+//   setTimeout(() => {
+//     // kaizer cpa
+//     // window.location.href = 'https://click.trafilink.site/SuhI08NC'
+//     // leadshub
+//     window.location.href = 'https://cas.x-go-leads.com/click?pid=10393&offer_id=1171'
+//   }, 3000)
+//
+// })
 
 </script>
 
