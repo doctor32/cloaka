@@ -1,9 +1,8 @@
 <script setup>
-// import {onMounted} from "vue";
-//
+import {onMounted} from "vue";
+
 onMounted(() => {
   window.location.href = 'https://cas.x-go-leads.com/click?pid=10393&offer_id=1171'
-
 })
 
 </script>
