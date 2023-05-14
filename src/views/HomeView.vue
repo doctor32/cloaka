@@ -1,20 +1,21 @@
 <script setup>
-import {onMounted} from "vue";
 
-onMounted(() => {
-  window.location.href = 'https://cas.x-go-leads.com/click?pid=10393&offer_id=1171'
-})
 
 </script>
 
 <template>
   <main>
-    <p>Please, wait 3-10 seconds...</p>
-    <div class="loader"></div>
+    <p>If you see this page you did something wrong</p>
+    <p style="font-weight: 700;">Take a screenshot and send it to the owner</p>
+<!--    <p>Please, wait 3-10 seconds...</p>-->
+<!--    <div class="loader"></div>-->
   </main>
 </template>
 
 <style scoped >
+p {
+  text-align: center;
+}
 main {
   width: 100%;
   box-sizing: border-box;
